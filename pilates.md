@@ -11,3 +11,13 @@ Fortalece el abdomen, la espalda y el suelo pélvico.
 Mejora la postura y la alineación corporal.
 
 Aumenta la flexibilidad, la coordinación y el control del cuerpo.
+
+## Instrucciones
+
+Inicia con un calentamiento suave y respiración consciente (3-5 minutos).
+
+Realiza una serie de ejercicios clásicos (como: The Hundred, Roll-Up, Leg Circles, Plank, Bridge).
+
+Haz 8-12 repeticiones por ejercicio, manteniendo el control y la alineación en todo momento.
+
+Finaliza con estiramientos suaves y respiración profunda.
