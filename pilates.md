@@ -21,3 +21,11 @@ Realiza una serie de ejercicios clásicos (como: The Hundred, Roll-Up, Leg Circl
 Haz 8-12 repeticiones por ejercicio, manteniendo el control y la alineación en todo momento.
 
 Finaliza con estiramientos suaves y respiración profunda.
+
+## Consejos
+
+Enfócate en la respiración y la activación del core en cada movimiento.
+
+Mantén un ritmo lento y controlado; calidad antes que cantidad.
+
+Usa una colchoneta cómoda y trabaja en un espacio tranquilo.
