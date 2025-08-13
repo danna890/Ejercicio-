@@ -15,3 +15,9 @@ Realiza un WOD (Workout of the Day) que incluya:
 Movimientos funcionales (sentadillas, dominadas, burpees, kettlebells, box jumps, etc.)
 Alta intensidad con tiempos o repeticiones definidos (por ejemplo: AMRAP, EMOM, For Time).
 Finaliza con un enfriamiento y estiramientos activos.
+
+## Consejos
+Aprende la técnica correcta antes de aumentar la intensidad o el peso.
+Escala los ejercicios según tu nivel.
+Lleva un registro de tus progresos (tiempos, repeticiones, pesos).
+Escucha a tu cuerpo y prioriza la recuperación.
