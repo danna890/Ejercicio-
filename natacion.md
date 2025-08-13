@@ -14,3 +14,9 @@ Comienza con un calentamiento en el agua: 5-10 minutos de nado suave (estilo lib
 Realiza una rutina de nado estructurada, alternando estilos (libre, pecho, espalda, mariposa) según tu nivel.
 Ejemplo: 10 x 50 metros con descansos de 20-30 segundos entre repeticiones.
 Termina con 5-10 minutos de nado suave y estiramientos fuera del agua, especialmente de hombros, espalda y piernas.
+
+## Consejos
+Enfócate en la técnica más que en la velocidad.
+Respira de forma rítmica y controlada.
+Usa gafas, gorro y traje de baño adecuados.
+Si eres principiante, considera tomar clases o practicar bajo supervisión.
