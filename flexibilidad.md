@@ -21,3 +21,11 @@ Elige una rutina de estiramientos (puede ser dinámica o estática).
 Mantén cada estiramiento durante 20-30 segundos, repitiendo 2-3 veces por músculo.
 
 Respira profundamente y evita los rebotes durante los estiramientos.
+
+## Consejos
+
+No fuerces el estiramiento; escucha a tu cuerpo.
+
+Realiza ejercicios de flexibilidad al menos 3 veces por semana.
+
+La constancia es clave para notar mejoras.
