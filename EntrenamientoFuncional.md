@@ -21,3 +21,11 @@ Elige 5-6 ejercicios funcionales (por ejemplo: sentadillas, zancadas, planchas, 
 Realiza 3-4 circuitos, con 30-45 segundos por ejercicio y 15-30 segundos de descanso entre ellos.
 
 Finaliza con un enfriamiento y estiramientos.
+
+## Consejos
+
+Prioriza la técnica por encima de la velocidad o el peso.
+
+Ajusta la intensidad según tu nivel físico.
+
+Incorpora movimientos que involucren múltiples grupos musculares.
