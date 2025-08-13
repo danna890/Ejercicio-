@@ -21,3 +21,11 @@ Elige 4-6 ejercicios (como sentadillas, flexiones, press de banca, remo con manc
 Realiza 3-4 series de 8-12 repeticiones por ejercicio, descansando 60-90 segundos entre series.
 
 Finaliza con estiramientos enfocados en los músculos trabajados.
+
+## Consejos
+
+Enfócate en la técnica antes de aumentar el peso.
+
+Descansa al menos 48 horas entre sesiones de fuerza del mismo grupo muscular.
+
+Escoge una resistencia desafiante pero controlable.
