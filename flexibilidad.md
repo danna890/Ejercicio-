@@ -11,3 +11,13 @@ Aumenta el rango de movimiento.
 Reduce la rigidez muscular.
 
 Mejora la postura y la circulación.
+
+## Instrucciones
+
+Realiza un calentamiento ligero de 5-10 minutos (caminar, movilidad articular).
+
+Elige una rutina de estiramientos (puede ser dinámica o estática).
+
+Mantén cada estiramiento durante 20-30 segundos, repitiendo 2-3 veces por músculo.
+
+Respira profundamente y evita los rebotes durante los estiramientos.
