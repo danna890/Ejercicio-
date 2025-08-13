@@ -21,3 +21,13 @@ Comienza con un calentamiento de 5-10 minutos pedaleando a ritmo suave.
 Pedalea durante al menos 30 minutos, ajustando la intensidad según tu objetivo (resistencia, velocidad, fuerza).
 
 Finaliza con 5-10 minutos de pedaleo suave como enfriamiento y realiza estiramientos, especialmente de piernas y espalda baja.
+
+## Consejos
+
+Ajusta correctamente el sillín y el manillar para evitar lesiones.
+
+Mantente bien hidratado, especialmente en rutas largas o días calurosos.
+
+Usa casco y equipo adecuado si montas al aire libre.
+
+Alterna entre diferentes intensidades para mejorar tu rendimiento.
